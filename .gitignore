@@ -49,7 +49,7 @@ Temporary Items
 
 ### STM32CUBE ###
 # STM32Cube copied library and project folders
-Drivers/*
+#Drivers/*
 MDK-ARM/*
 EWARM/*
 # CrossWorks project files

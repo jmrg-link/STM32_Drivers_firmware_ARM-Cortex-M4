@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Creacion de Driver STM32</h1>
-  <img src="http://www.carminenoviello.com/wp-content/uploads/2015/06/stm32-butterfly.jpg" alt="vue logo" height="300px">
+  <img src="http://www.carminenoviello.com/wp-content/uploads/2015/06/stm32-butterfly.jpg" alt="stm logo" height="300px">
   <h3 style="font-weight:bold;" >STM32 - Uso de placa desarrollo NUCLEO-64</h3>
-  <h5></h5>
+  
 </div>
 
 ## Requisitos :clipboard:
 
 *   Conocimiento medio c
 *   Conocimiento medio de programación c++
-*   Placa desarrollo STM32F401< xx >(Familia) 
+*   Placa desarrollo **STM32F401**< xx >(Familia) 
 *   Uso de Software **STM32CUBEIDE** o KEILv5
 
 
@@ -45,4 +45,4 @@
     *   Configurar Interrupciones RCC: Clocks 
     *   Practicar conceptos de Timers: Input , Output
     *   Usar Systick : System Timer (Medir Frecuencias y Creacion de Esperas)
-    *    Personalizar Watchdog : Custom Driver e Implementacion.
+    *   Personalizar Watchdog : Custom Driver e Implementacion.
